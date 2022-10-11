@@ -40,3 +40,18 @@ hr{
    
     
 }
+.setting{
+    display: inline;
+    width: 10px;
+    height:10px;
+}
+.languages{
+    word-spacing: 50px;
+}
+.wikistar{
+    
+    display: inline;
+    width: 10px;
+    height:10px;
+    margin-left: -10px;
+}
