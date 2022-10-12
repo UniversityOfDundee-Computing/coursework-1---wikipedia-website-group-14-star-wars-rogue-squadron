@@ -1,6 +1,11 @@
 *{
     font-family: sans-serif;
 }
+
+body{
+    margin:0px;
+}
+
 .imageW{
     display: flex;
     width: 160px;
@@ -59,7 +64,6 @@ hr{
 nav{
     list-style-type: none;
     margin: 0;
- 
     max-width: 1500px;
     background: linear-gradient(rgb(13, 0, 190), rgb(0, 119, 148));
     color: aqua;
