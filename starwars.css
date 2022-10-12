@@ -55,3 +55,22 @@ hr{
     height:10px;
     margin-left: -10px;
 }
+
+nav{
+    list-style-type: none;
+    margin: 0;
+ 
+    max-width: 1500px;
+    background: linear-gradient(rgb(13, 0, 190), rgb(0, 119, 148));
+    color: aqua;
+    border-bottom: solid;
+    border-color: rgb(108, 55, 1); 
+    background-size: cover;
+}
+
+.butt1{
+    padding: 25px 32px;
+    background: linear-gradient(rgb(13, 0, 190), rgb(0, 119, 148));
+    border:none;
+    font-size: 16px;
+}
