@@ -5,6 +5,10 @@
     display: flex;
     width: 160px;
     height: 60px;
+    
+}
+.fonty{
+    font-family: linux libetine
 }
 h1 small{
     font-size: 10px;
@@ -55,3 +59,48 @@ hr{
     height:10px;
     margin-left: -10px;
 }
+        
+.button{
+    width: 70px;
+    height: 25px;
+    font-size:10px;
+}
+button img{
+    width: 10px;
+    height:10px;
+    padding-right: -5px;
+}
+
+.pencil{
+    color: gray;
+    margin-left:50px;
+    font-size: 12px;
+}
+.right{
+    flex: 1;
+    text-align: right;
+}
+.right ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+   font-size: 12px;
+
+}
+.iconcolor{
+    color: gray;
+}
+/* .borders{
+    width: 775px;
+    height: 1011.7px;
+    border: 2px solid gray;
+    margin-right: 30px;
+} */
+.borders {
+    position: absolute;
+    right: 0;
+    width: 1075px;
+    height: 1011.7px;
+    border: 1px solid gray;
+  }
+  
