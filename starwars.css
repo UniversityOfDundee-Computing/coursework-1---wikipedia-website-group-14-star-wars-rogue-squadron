@@ -18,6 +18,10 @@ main{
     display: flex;
     width: 160px;
     height: 60px;
+    
+}
+.fonty{
+    font-family: linux libetine
 }
 
 h1 small{
@@ -74,49 +78,3 @@ hr{
     height:10px;
     margin-left: -10px;
 }
-
-nav{
-    list-style-type: none;
-    margin: 0;
-    max-width: 1500px;
-    background: linear-gradient(rgb(13, 0, 190), rgb(0, 119, 148));
-    color: aqua;
-    border-bottom: solid;
-    border-color: rgb(108, 55, 1); 
-    background-size: cover;
-}
-
-.butt1{
-    padding: 25px 32px;
-    background: linear-gradient(rgb(13, 0, 190), rgb(0, 119, 148));
-    border-left:solid;
-    border-right:solid;
-    font-size: 16px;
-    border-top:none;
-    border-bottom:none;
-    border:inset;
-}
-
-a:link {
-    color: red;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:visited {
-    color: red;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    color: pink;
-    background-color: transparent;
-    text-decoration: underline;
-  }
-  
-  a:active {
-    color: yellow;
-    background-color: transparent;
-    text-decoration: underline;
-  }
