@@ -14,12 +14,12 @@ main{
 
 }
 
-.imageW{
+ .imageW{
     display: flex;
     width: 160px;
     height: 60px;
     
-}
+} 
 .fonty{
     font-family: linux libetine
 }
@@ -83,7 +83,7 @@ nav{
     list-style-type: none;
     margin: 0;
     max-width: 1500px;
-    background: linear-gradient(rgb(13, 0, 190), rgb(0, 119, 148));
+    /* background: linear-gradient(rgb(13, 0, 190), rgb(0, 119, 148)); */
     color: aqua;
     border-bottom: solid;
     border-color: rgb(108, 55, 1); 
@@ -91,15 +91,11 @@ nav{
 }
 
 .butt1{
-    padding: 25px 32px;
+    padding: 15px 22px;
     background: linear-gradient(rgb(13, 0, 190), rgb(0, 119, 148));
-    border-left:solid;
-    border-right:solid;
-    font-size: 16px;
-    border-top:none;
-    border-bottom:none;
-    border:inset;
+    border-radius:5px;
 }
+
 
 a:link {
     color: red;
@@ -116,7 +112,7 @@ a:link {
   a:hover {
     color: pink;
     background-color: transparent;
-    text-decoration: underline;
+   
   }
   
   a:active {
