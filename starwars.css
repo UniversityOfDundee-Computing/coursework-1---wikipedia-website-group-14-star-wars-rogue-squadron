@@ -87,7 +87,7 @@ nav{
     background: linear-gradient(rgb(13, 0, 190), rgb(0, 119, 148));
     color: aqua;
     border-bottom: solid;
-    border-color: rgb(108, 55, 1); 
+    border-color: rgb(189, 189, 189); 
     background-size: cover;
 }
 
@@ -95,6 +95,7 @@ nav{
     padding: 15px 22px;
     background: linear-gradient(rgb(13, 0, 190), rgb(0, 119, 148));
     border-radius:5px;
+    border-style: outset;
 }
 
 
