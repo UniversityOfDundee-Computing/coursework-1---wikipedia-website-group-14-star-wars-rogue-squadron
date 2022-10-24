@@ -1,9 +1,11 @@
 *{
     font-family: sans-serif;
+    margin:0px;
 }
 
 body{
      background-image: url("space.jpg");
+ 
 }
 main{
     margin:10px;
