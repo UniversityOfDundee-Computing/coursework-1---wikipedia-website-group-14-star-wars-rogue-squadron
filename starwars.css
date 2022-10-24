@@ -94,7 +94,8 @@ nav{
     padding: 15px 22px;
     background: linear-gradient(rgb(13, 0, 190), rgb(0, 119, 148));
     border-radius:5px;
-    border-style: outset !important;
+    border-style: outset ;
+    border-color:silver;
 }
 
 
