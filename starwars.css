@@ -126,9 +126,8 @@ a:link {
     width: 500px;
   }
 
-.header{
-    background: linear-gradient(rgb(13, 0, 190), rgb(0, 119, 148));
-}
+.header{}
+
 .div1{
     font-size: 50px;
 }
