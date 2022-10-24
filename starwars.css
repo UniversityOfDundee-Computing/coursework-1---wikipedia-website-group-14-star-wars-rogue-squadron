@@ -4,7 +4,6 @@
 
 body{
      background-image: url("space.jpg");
- 
 }
 main{
     margin:10px;
@@ -81,7 +80,7 @@ hr{
 
 nav{
     list-style-type: none;
-    margin: 0;
+    margin: 0px;
     max-width: 1500px;
     background: linear-gradient(rgb(13, 0, 190), rgb(0, 119, 148));
     color: aqua;
