@@ -80,7 +80,7 @@ hr{
 
 nav{
     list-style-type: none;
-    margin: 0px;
+    padding: 15px;
     max-width: 1500px;
     background: linear-gradient(rgb(13, 0, 190), rgb(0, 119, 148));
     color: aqua;
