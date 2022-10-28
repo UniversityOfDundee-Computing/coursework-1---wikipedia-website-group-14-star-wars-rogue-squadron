@@ -134,3 +134,8 @@ a:link {
 .text-center{
     color: white;
 }
+
+.kerm{
+    position: absolute;
+    right: 10%;
+}
