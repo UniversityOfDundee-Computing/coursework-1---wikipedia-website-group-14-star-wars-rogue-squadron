@@ -147,3 +147,7 @@ a:link {
 .floatleft{
     float:left;
 }
+
+img{
+    margin:10px;
+}
