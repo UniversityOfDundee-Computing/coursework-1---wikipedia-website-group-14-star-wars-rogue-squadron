@@ -151,3 +151,9 @@ a:link {
 img{
     margin:10px;
 }
+
+.header{
+    padding:10px;
+    background-color:blue;
+  }
+  
