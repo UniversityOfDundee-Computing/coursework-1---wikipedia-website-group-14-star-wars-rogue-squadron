@@ -90,7 +90,7 @@ nav{
 .butt1{
     padding:15px 22px;
     background: linear-gradient(rgb(13, 0, 190), rgb(0, 119, 148));
-    border-radius:15px;
+    border-radius:20px;
     border-style: outset ;
     border-color:silver;
     margin-left:50px;
@@ -98,19 +98,19 @@ nav{
 }
 
 a:link {
-    color: red;
+    color: white;
     background-color: transparent;
     text-decoration: none;
   }
   
   a:visited {
-    color: red;
+    color: white;
     background-color: transparent;
     text-decoration: none;
   }
   
   a:hover {
-    color: pink;
+    color: red;
     background-color: transparent;
    
    }
