@@ -103,20 +103,19 @@ a:link {
     text-decoration: none;
   }
   
-  a:visited {
+a:visited {
     color: white;
     background-color: transparent;
     text-decoration: none;
   }
   
-  a:hover {
+a:hover {
     color: red;
     background-color: transparent;
-   
    }
   
-  a:active {
-    color: yellow;
+a:active {
+    color: red;
     background-color: transparent;
     text-decoration: underline;
   }
