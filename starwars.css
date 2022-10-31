@@ -71,7 +71,6 @@ hr{
 }
 
 .wikistar{
-    
     display: inline;
     width: 10px;
     height:10px;
@@ -80,25 +79,23 @@ hr{
 
 nav{
     list-style-type: none;
-    padding: 14px;
-    max-width: 1500px;
     background: linear-gradient(rgb(13, 0, 190), rgb(0, 119, 148));
     color: aqua;
     border-bottom: solid;
     border-color: rgb(189, 189, 189); 
     background-size: cover;
+    
 }
 
 .butt1{
-    margin-top: 5px;
-    margin-bottom:5px;
-    padding: 15px 22px;
+    padding:15px 22px;
     background: linear-gradient(rgb(13, 0, 190), rgb(0, 119, 148));
-    border-radius:5px;
+    border-radius:15px;
     border-style: outset ;
     border-color:silver;
+    margin-left:25px;
+    font-size:100px;
 }
-
 
 a:link {
     color: red;
@@ -155,6 +152,9 @@ img{
 .header{
     padding:10px;
     background-color:blue;
-    color:black;
+    color:rgb(154, 154, 154);
   }
+
+.nav-link{
   
+}
