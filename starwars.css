@@ -98,7 +98,7 @@ nav{
 }
 
 a:link {
-    color: red;
+   
     background-color: transparent;
     text-decoration: none;
   }
@@ -125,7 +125,8 @@ a:active {
   }
 
 .div1{
-    font-size: 50px;
+    font-size: 48px;
+    
 }
 .text-center{
     color: white;
@@ -154,3 +155,41 @@ img{
     background-color:rgb(5, 5, 242, 0.7);
     color:rgb(182, 182, 182);
   }
+
+  .card{
+    /* display: flex;
+    background-image: url("setting1.jpg");
+    background-repeat: no-repeat; */
+    background-color: rgb(0, 183, 255);
+ 
+  }
+  .grid6{
+    display: grid;
+    grid-template-columns: 310px 310px 310px 310px;
+    margin-top: 10px;
+    grid-gap: 15px;
+    justify-content: center;
+  }
+  .card-img-top {
+    width: 20vw;
+    height: 100%;
+    object-fit: cover;
+}
+.grid64{
+    display: grid;
+    grid-template-columns: 700px 400px ;
+    margin-top: 10px;
+    grid-gap: 15px;
+    margin-left: 60px;
+}
+.text{
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 350px 1000px;
+    color: azure;
+    background-color: rgb(0, 183, 255);
+}
+.grid7{
+    justify-self: end;
+}
+
