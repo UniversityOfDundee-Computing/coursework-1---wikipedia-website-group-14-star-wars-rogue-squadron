@@ -8,8 +8,8 @@ body{
 main{
     margin:15px;
     padding: 10px;
-    background-color: rgb(0, 183, 255);
-    opacity: 70%;
+    background-color: rgb(0, 183, 255, 0.7);
+    /* opacity: 70%; */
 
 }
 
@@ -152,6 +152,6 @@ img{
 
 .header{
     padding:10px;
-    background-color:blue;
+    background-color:rgb(5, 5, 242, 0.7);
     color:rgb(182, 182, 182);
   }
