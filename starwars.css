@@ -8,8 +8,8 @@ body{
 main{
     margin:15px;
     padding: 10px;
-    background-color: rgb(0, 183, 255);
-    opacity: 70%;
+    background-color: rgb(0, 183, 255, 0.7);
+    /* opacity: 70%; */
 
 }
 
@@ -71,7 +71,6 @@ hr{
 }
 
 .wikistar{
-    
     display: inline;
     width: 10px;
     height:10px;
@@ -80,25 +79,23 @@ hr{
 
 nav{
     list-style-type: none;
-    padding: 14px;
-    max-width: 1500px;
     background: linear-gradient(rgb(13, 0, 190), rgb(0, 119, 148));
     color: aqua;
     border-bottom: solid;
     border-color: rgb(189, 189, 189); 
     background-size: cover;
+    height:45px;
 }
 
 .butt1{
-    margin-top: 5px;
-    margin-bottom:5px;
-    padding: 15px 22px;
+    padding:15px 22px;
     background: linear-gradient(rgb(13, 0, 190), rgb(0, 119, 148));
-    border-radius:5px;
+    border-radius:20px;
     border-style: outset ;
     border-color:silver;
+    margin-left:50px;
+    font-size: 1.5em;
 }
-
 
 a:link {
    
@@ -106,20 +103,19 @@ a:link {
     text-decoration: none;
   }
   
-  a:visited {
-    color: red;
+a:visited {
+    color: white;
     background-color: transparent;
     text-decoration: none;
   }
   
-  a:hover {
-    color: pink;
+a:hover {
+    color: red;
     background-color: transparent;
-   
    }
   
-  a:active {
-    color: yellow;
+a:active {
+    color: red;
     background-color: transparent;
     text-decoration: underline;
   }
@@ -151,12 +147,15 @@ a:link {
 
 img{
     margin:10px;
+    opacity:100%;
 }
 
 .header{
     padding:10px;
-    background-color:blue;
+    background-color:rgb(5, 5, 242, 0.7);
+    color:rgb(182, 182, 182);
   }
+
   .card{
     /* display: flex;
     background-image: url("setting1.jpg");
@@ -193,3 +192,4 @@ img{
 .grid7{
     justify-self: end;
 }
+
