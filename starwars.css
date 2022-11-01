@@ -3,6 +3,9 @@
 }
 
 body{
+    position: absolute;
+    left:50%;
+    right:50%;
     background-image: url("space.jpg");
 }
 main{
