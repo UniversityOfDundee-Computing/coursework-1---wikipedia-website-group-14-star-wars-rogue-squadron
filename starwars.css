@@ -86,7 +86,7 @@ nav{
     border-bottom: solid;
     border-color: rgb(189, 189, 189); 
     background-size: cover;
-    min-height:56px;
+    max-height:54px;
 }
 
 .butt1{
@@ -141,6 +141,7 @@ a:active {
 
 .floatright{
     float:right;
+    text-align: right;
 }
 
 .floatleft{
