@@ -3,9 +3,11 @@
 }
 
 body{
-     background-image: url("space.jpg");
-     margin:0px;
-     padding:0px;
+    position: absolute;
+    left:0%;
+    background-image: url("space.jpg");
+    margin:0px;
+    padding:0px;
 }
 main{
     margin:15px;
