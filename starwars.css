@@ -86,6 +86,7 @@ nav{
     border-color: rgb(189, 189, 189); 
     background-size: cover;
     max-height:56px;
+    background-repeat:no-repeat;
 }
 
 .butt1{
