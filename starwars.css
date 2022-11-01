@@ -201,6 +201,6 @@ img{
 }
 
 .foota{
-    width:100px;
-    
+    /* max-width:15600px; */
+    background-size: cover;
 }
