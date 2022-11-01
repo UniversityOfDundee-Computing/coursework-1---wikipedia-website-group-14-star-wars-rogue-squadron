@@ -84,7 +84,7 @@ nav{
     border-bottom: solid;
     border-color: rgb(189, 189, 189); 
     background-size: cover;
-    height:53px;
+    min-height:56px;
 }
 
 .butt1{
