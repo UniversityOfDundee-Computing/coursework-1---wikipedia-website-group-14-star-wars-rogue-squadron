@@ -79,6 +79,8 @@ hr{
 
 nav{
     list-style-type: none;
+    padding: 14px;
+    max-width: 1500px;
     background: linear-gradient(rgb(13, 0, 190), rgb(0, 119, 148));
     color: aqua;
     border-bottom: solid;
@@ -201,6 +203,6 @@ img{
 }
 
 .foota{
-    /* max-width:15600px; */
+    max-width:1500px;
     background-size: cover;
 }
