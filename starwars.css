@@ -8,6 +8,8 @@ body{
     background-image: url("space.jpg");
     margin:0px;
     padding:0px;
+    background-position: center;
+    background-size: cover;
 }
 main{
     margin:15px;
