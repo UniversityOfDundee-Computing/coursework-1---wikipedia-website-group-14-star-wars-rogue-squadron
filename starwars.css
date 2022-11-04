@@ -207,23 +207,3 @@ img{
     max-width:100%;
     background-size: cover;
 }
-
-.container {
-    position: relative;
-    overflow: hidden;
-    width: 100%;
-    max-width:350px;
-    height:auto;
-  }
-  
-
-  .responsive-iframe {
-    /* position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0; */
-    width: 100%;
-    height: auto;
-    max-width:350px;
-  }
