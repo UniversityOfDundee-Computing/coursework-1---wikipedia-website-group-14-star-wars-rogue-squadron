@@ -11,7 +11,7 @@ main{
     margin:15px;
     padding: 10px;
     background-color: rgb(0, 183, 255, 0.7);
-
+    z-index: 1;
 }
 
  .imageW{
@@ -215,9 +215,10 @@ img{
 
 
 svg{
-    position: absolute;
+    position: fixed;
     bottom:0;
     left: 0;
+    z-index: 2;
 }
 
 .path {
