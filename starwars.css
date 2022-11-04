@@ -214,7 +214,10 @@ img{
 
 
 
-
+svg{
+    position: absolute;
+    left: 0%;
+}
 
 .path {
     animation: draw 15s infinite;
