@@ -207,3 +207,10 @@ img{
     max-width:100%;
     background-size: cover;
 }
+
+iframe{
+    opacity:100%;
+    height:auto;
+    width:100%;
+    padding:10px
+}
